@@ -1,0 +1,16 @@
+{
+  "name": "expressapi",
+  "version": "1.0.0",
+  "description": "creating rest api",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tejas",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
